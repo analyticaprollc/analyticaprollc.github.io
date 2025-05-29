@@ -3,7 +3,7 @@ layout: home
 title: KIT VINE's Portfolio
 ---
 
-![KIT VINE](./profile.jpg)
+<img src="./profile.jpg" alt="KIT VINE" width="150" style="border-radius: 50%;">
 
 # Hi, I'm KIT VINE  
 Business Intelligence Analyst | Passionate About Data Storytelling | Helping Businesses Make Smarter Decisions  
