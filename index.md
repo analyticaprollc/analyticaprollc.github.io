@@ -1,35 +1,45 @@
-## Portfolio
-
+---
+layout: home
+title: Kit Vine's Portfolio
 ---
 
-### Category Name 1 
+# Hi, I'm Kit Vine  
+Business Intelligence Analyst | Passionate About Data Storytelling | Helping Businesses Make Smarter Decisions  
+Based in Pinellas Park, FL
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Experience
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- **Quality Control** at **Madico** (07/24 – Present)  
+  Analyze production and quality data to identify trends and reduce defects,  
+  supporting continuous improvement and product excellence.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- **Data-Driven Product Manager** at **Ohm Appliance Experts** (12/20 – 07/24)  
+  Used customer data to improve service offerings and increase sales.  
+  Tracked performance metrics and improved customer retention by analyzing satisfaction trends.
 
----
+## Skills
 
-### Category Name 2
+Python | SQL | Google Sheets | Tableau | Power BI | Google Analytics | ROI Modeling | Financial Modeling | Dashboards
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+## Projects
 
----
+- **Zomato Restaurant Analysis**  
+  Analyzed 500+ restaurants to find revenue drivers using Tableau.  
+  Found top 10% (rated ≥4.2) generate 65%+ of revenue; optimal menu size: 30–50 items.  
+  Recommended ad targeting in urban areas for +15% revenue growth.
 
+- **Superstore Returns Analysis**  
+  Explored return patterns by category, customer, and region.  
+  Highlighted top return categories (>8%) and repeat returners.  
+  Proposed quality control improvements and customer outreach strategies.
 
+## Education
 
+- Triple Ten | Business Intelligence Analytics (11/24 - 05/25)  
+  SQL, Data Visualization (Tableau, Power BI), Python
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+## Contact
+
+- Email: AnalyticaPROLLC@gmail.com  
+- LinkedIn: [linkedin.com/in/analyticapro](https://www.linkedin.com/in/analyticapro/)  
+- GitHub: [github.com/your-username](https://github.com/your-username)  
