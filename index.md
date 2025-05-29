@@ -1,9 +1,11 @@
 ---
 layout: home
-title: Kit Vine's Portfolio
+title: KIT VINE's Portfolio
 ---
 
-# Hi, I'm Kit Vine  
+![KIT VINE](./profile.jpg)
+
+# Hi, I'm KIT VINE  
 Business Intelligence Analyst | Passionate About Data Storytelling | Helping Businesses Make Smarter Decisions  
 Based in Pinellas Park, FL
 
