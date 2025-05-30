@@ -44,4 +44,4 @@ Python | SQL | Google Sheets | Tableau | Power BI | Google Analytics | ROI Model
 
 - Email: AnalyticaPROLLC@gmail.com  
 - LinkedIn: [linkedin.com/in/analyticapro](https://www.linkedin.com/in/analyticapro/)  
-- GitHub: [analyticapro.github.io](https://analyticapro.github.io)
+- GitHub: [analyticaprollc.github.io](https://analyticaprollc.github.io/)
