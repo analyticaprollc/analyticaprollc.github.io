@@ -5,43 +5,86 @@ title: KIT VINE's Portfolio
 
 <img src="./profile.jpg" alt="KIT VINE" width="150" style="border-radius: 50%;">
 
-# Hi, I'm KIT VINE  
-Business Intelligence Analyst | Passionate About Data Storytelling | Helping Businesses Make Smarter Decisions  
-Based in Pinellas Park, FL
+# 👋 Hi, I'm KIT VINE
 
-## Experience
+**E-Commerce Business Intelligence Analyst**  
+📍 Pinellas Park, FL | Tableau Certified | Fluent in English 🇺🇸, Russian 🇷🇺, Chinese 🇨🇳
 
-- **Quality Control** at **Madico** (07/24 – Present)  
-  Analyze production and quality data to identify trends and reduce defects,  
-  supporting continuous improvement and product excellence.
+---
 
-- **Data-Driven Product Manager** at **Ohm Appliance Experts** (12/20 – 07/24)  
-  Used customer data to improve service offerings and increase sales.  
-  Tracked performance metrics and improved customer retention by analyzing satisfaction trends.
+## 🚀 About Me
 
-## Skills
+I’m a data-driven BI Analyst with 9+ years of experience boosting revenue and efficiency in e-commerce, retail, and manufacturing.  
+I specialize in transforming complex data into actionable insights — from predictive models to dynamic pricing systems.
 
-Python | SQL | Google Sheets | Tableau | Power BI | Google Analytics | ROI Modeling | Financial Modeling | Dashboards
+---
 
-## Projects
+## 💼 Experience
 
-- **Zomato Restaurant Analysis**  
-  Analyzed 500+ restaurants to find revenue drivers using Tableau.  
-  Found top 10% (rated ≥4.2) generate 65%+ of revenue; optimal menu size: 30–50 items.  
-  Recommended ad targeting in urban areas for +15% revenue growth.
+### **Senior Data Analyst** — *Madico* (07/2023 – Present)  
+- Reduced defects by 12% ($85K saved) via SQL-based root cause analysis  
+- Automated Power BI reports (Python) saving 8 hours/week  
+- Built predictive maintenance models decreasing downtime by 22%  
+- Developed real-time dashboards for faster decision-making  
 
-- **Superstore Returns Analysis**  
-  Explored return patterns by category, customer, and region.  
-  Highlighted top return categories (>8%) and repeat returners.  
-  Proposed quality control improvements and customer outreach strategies.
+### **BI Strategist** — *Ohm Appliance Experts* (12/2020 – 07/2023)  
+- Drove 23% YoY revenue growth through Tableau dashboards  
+- Boosted ROAS 28% by optimizing ad spend across Meta and Google  
+- Implemented dynamic pricing algorithms increasing margins by 17%  
+- Created customer segmentation improving email conversions by 42%  
 
-## Education
+### **Founder** — *AnalyticsPro LLC* (02/2015 – 12/2020)  
+- Ran a profitable Amazon FBA business ($120K/year)  
+- Used Python & Jungle Scout to forecast inventory and identify products  
+- Built competitive price monitoring dashboard across 50+ competitors  
 
-- Triple Ten | Business Intelligence Analytics (11/24 - 05/25)  
-  SQL, Data Visualization (Tableau, Power BI), Python
+---
 
-## Contact
+## 🧠 Core Skills
 
-- Email: AnalyticaPROLLC@gmail.com  
-- LinkedIn: [linkedin.com/in/analyticapro](https://www.linkedin.com/in/analyticapro/)  
-- GitHub: [analyticaprollc.github.io](https://analyticaprollc.github.io/)
+- **Data & Code:** SQL (CTEs, Window Functions), Python (Pandas, scikit-learn), BigQuery, Snowflake  
+- **BI Tools:** Tableau (Certified), Power BI, Looker, GA4  
+- **E-Commerce Focus:** Shopify, Magento, Amazon FBA, Customer LTV, RFM Modeling  
+- **Languages:** 🇺🇸 English (Fluent), 🇷🇺 Russian (Fluent), 🇨🇳 Chinese (Fluent)
+
+---
+
+## 📊 Projects
+
+### 🔗 [Restaurant Revenue Optimization (Zomato)](https://github.com/kitvine/zomato)  
+Analyzed 500K+ orders to identify key revenue drivers.  
+- Top 10% of restaurants → 65% of revenue  
+- Recommended ideal menu size (30–50 items)  
+- Geo-targeting model improved conversions by 15%
+
+### 🔗 [Predictive Returns Analysis](https://github.com/kitvine/returns)  
+Used ML to forecast returns and improve supplier quality.  
+- Reduced returns by 12% ($300K saved)  
+- Built supplier scorecard in Power BI
+
+### 🔗 [Superstore Returns Dashboard](https://public.tableau.com/views/Superstorelast/Story1)  
+- Identified high-return categories (>8%) and repeat returners  
+- Proposed targeted quality improvements and outreach
+
+---
+
+## 🎓 Education
+
+**TripleTen** — Business Intelligence Analytics (2024)  
+*Capstone: Built pricing model increasing e-commerce margins by 18%*
+
+**Chongqing Jiaotong University** — BA History & International Relations (2015)  
+*GPA: 3.8 | Focus on market analytics & quantitative research*
+
+---
+
+## 📫 Contact
+
+- **Email:** [KitVine.Analytics@gmail.com](mailto:KitVine.Analytics@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/analyticapro](https://www.linkedin.com/in/analyticapro)  
+- **GitHub:** [github.com/analyticaprollc](https://github.com/analyticaprollc)  
+- **Portfolio:** [analyticaprollc.github.io](https://analyticaprollc.github.io)
+
+---
+
+✨ Let’s connect and turn complex data into smart decisions.
